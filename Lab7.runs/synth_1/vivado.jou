@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Oct 13 19:39:31 2024
+# Process ID: 11368
+# Current directory: E:/Vivado/Lab7/Lab7.runs/synth_1
+# Command line: vivado.exe -log Top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top.tcl
+# Log file: E:/Vivado/Lab7/Lab7.runs/synth_1/Top.vds
+# Journal file: E:/Vivado/Lab7/Lab7.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-613CM1U
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :AMD Ryzen 7 7800X3D 8-Core Processor           
+# CPU Frequency     :4192 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :33443 MB
+# Swap memory       :16106 MB
+# Total Virtual     :49549 MB
+# Available Virtual :31289 MB
+#-----------------------------------------------------------
+source Top.tcl -notrace

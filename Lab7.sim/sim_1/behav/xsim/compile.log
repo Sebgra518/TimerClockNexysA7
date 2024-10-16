@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado/Lab7/Lab7.srcs/sources_1/new/DigitsSeperator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DigitsSeperator
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado/Lab7/Lab7.srcs/sim_1/new/testsim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testsim
